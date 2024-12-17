@@ -13,30 +13,30 @@
    }
    .header {
     grid-area: header;
-    background: #2196F3;
+    background: #e4dd7b;
     padding: 1rem;
-    color: white;
+    color: rgb(0, 0, 0);
    }
    .nav {
     grid-area: nav;
-    background: #64B5F6;
+    background: #e4dd7b;
     padding: 1rem;
    }
    .main {
     grid-area: main;
-    background: #BBDEFB;
+    background: #e4dd7b;
     padding: 1rem;
    }
    .sidebar {
     grid-area: sidebar;
-    background: #64B5F6;
+    background: #e4dd7b;
     padding: 1rem;
    }
    .footer {
     grid-area: footer;
-    background: #2196F3;
+    background: #e4dd7b;
     padding: 1rem;
-    color: white;
+    color: rgb(0, 0, 0);
    }
    /* สํ
 าหรับแท็บเล็ต */
